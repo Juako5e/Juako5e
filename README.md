@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Juako5e
 - 👀 I’m interested in aprender programacion con paython y otro lenguajes
-- 🌱 I’m currently learning  con paython, pero ahora inicio un curso de soyHenry, el cual usa el lenguaje de Javascrip
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  estudiante de ingenieria de software- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joaquinminaglia@gmail.com
 
 <!---
